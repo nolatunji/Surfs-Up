@@ -2,10 +2,10 @@
 ![istockphoto-1296277228-612x612](https://user-images.githubusercontent.com/96552268/172037988-0a9419af-cf2a-47df-841d-197c16a0edb5.jpg)
 
 ## Tools
-** SQLite
-** Visual Studio Code
-** Python
-** Pandas
+* SQLite
+* Visual Studio Code
+* Python
+* Pandas
 
 
 ## Overview
