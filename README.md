@@ -1,8 +1,15 @@
-# surfs-up
+# Surfs Up Challenge
 ![istockphoto-1296277228-612x612](https://user-images.githubusercontent.com/96552268/172037988-0a9419af-cf2a-47df-841d-197c16a0edb5.jpg)
 
+## Tools
+** SQLite
+** Visual Studio Code
+** Python
+** Pandas
+
+
 ## Overview
-Our business partner W. Avy has asked for an analysis of weather data on the island of Oahu - the proposed location for a future surf and ice cream shop we would like to open. He wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. For this project I used SQLite, Jupyter Notebook, and VS Code.
+Our business partner W. Avy has asked for an analysis of weather data on the island of Oahu - the proposed location for a future surf and ice cream shop we would like to open. He wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
 
 ## Results
 For the analysis the weather dataset needed to first be filtered using SQLite queries to retrieve the temperatures for the months of June and December and put into lists. 
