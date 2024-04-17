@@ -30,4 +30,4 @@ Using the filtered data two dataframes were created from the lists for June and 
 
 
 ## Summary 
-Based on the analysis Oahu appears to be a good location for the surf and ice cream shop. The avergage temperature for June is 78 degrees and only drops to an average temperature of 71 degrees in December. This is a good indication that the temperature stays stable throughout the year and does not drop drastically in the colder months which is ideal for the this type of business. 
+Based on the analysis Oahu appears to be a good location for the surf and ice cream shop. The average temperature for June is 78 degrees and only drops to an average temperature of 71 degrees in December. This is a good indication that the temperature stays stable throughout the year and does not drop drastically in the colder months which is ideal for the this type of business. 
